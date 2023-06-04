@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+El blog del manco: Bienvenidos a mi blog 
 ---
 
